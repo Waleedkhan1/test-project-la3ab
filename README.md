@@ -2,24 +2,19 @@
 Demo
 
 
--> Clone the project and open in android studio it will take some time for sync after that you can easily run the project
+Clone the project and open in android studio it will take some time for sync after that you can easily run the project
 
 Code Approach:
 
-# MVVM Arch
-# Coroutines
-# Recycler View
-# Retrofit
-# Fragments
-# Data Binding
-# Jitpack Libraries
-# Glide
+MVVM Architecture
+Coroutines
+Recycler View
+Retrofit
+Fragments
+Data Binding
+Jitpack Libraries
 
-Note: Dagger2 is not used in project except that every thing mention approaches will be used in the project.
-.
-.
-.
-.
-.
-.
+Note: For fragments transaction i manually adds the fragment in the backstack but I have complete grip on nav graph if you wants
+to perfrom some action using nav graph then definately i will do that.
+
 Thanks
