@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:id="@+id/tvSpinnerItem"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_30sdp"
+    android:textColor="@color/black"
+    android:textAlignment="textStart"
+    android:gravity="center"
+    android:drawableEnd="@drawable/dropdown"
+    xmlns:android="http://schemas.android.com/apk/res/android" />

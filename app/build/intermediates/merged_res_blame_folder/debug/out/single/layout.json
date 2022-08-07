@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Projects\\test-project-main\\test-project-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_category_detail.xml",
+        "source": "D:\\Projects\\test-project-main\\test-project-main\\app\\src\\main\\res\\layout\\fragment_category_detail.xml"
+    },
+    {
+        "merged": "D:\\Projects\\test-project-main\\test-project-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_display.xml",
+        "source": "D:\\Projects\\test-project-main\\test-project-main\\app\\src\\main\\res\\layout\\activity_display.xml"
+    },
+    {
+        "merged": "D:\\Projects\\test-project-main\\test-project-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\confirmation_dialog.xml",
+        "source": "D:\\Projects\\test-project-main\\test-project-main\\app\\src\\main\\res\\layout\\confirmation_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\test-project-main\\test-project-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_ratings_adapter.xml",
+        "source": "D:\\Projects\\test-project-main\\test-project-main\\app\\src\\main\\res\\layout\\item_ratings_adapter.xml"
+    },
+    {
+        "merged": "D:\\Projects\\test-project-main\\test-project-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_platforms_adapter.xml",
+        "source": "D:\\Projects\\test-project-main\\test-project-main\\app\\src\\main\\res\\layout\\item_platforms_adapter.xml"
+    },
+    {
+        "merged": "D:\\Projects\\test-project-main\\test-project-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_spinner_layout.xml",
+        "source": "D:\\Projects\\test-project-main\\test-project-main\\app\\src\\main\\res\\layout\\item_spinner_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\test-project-main\\test-project-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_address.xml",
+        "source": "D:\\Projects\\test-project-main\\test-project-main\\app\\src\\main\\res\\layout\\item_address.xml"
+    },
+    {
+        "merged": "D:\\Projects\\test-project-main\\test-project-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "D:\\Projects\\test-project-main\\test-project-main\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Projects\\test-project-main\\test-project-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Projects\\test-project-main\\test-project-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\test-project-main\\test-project-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_sub_categories.xml",
+        "source": "D:\\Projects\\test-project-main\\test-project-main\\app\\src\\main\\res\\layout\\item_sub_categories.xml"
+    }
+]

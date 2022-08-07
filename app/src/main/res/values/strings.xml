@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="string_press_again_to_exit">Press again to exit</string>
+    <string name="string_internet_connection_not_stable">Internet connection is not stable</string>
+
+    <string name="API_KEY">162b8a4698f244759e18c3b2776be3cb</string>
+    <string name="string_pubg">PubG</string>
+    <string name="string_ratings">Ratings</string>
+    <string name="string_platforms">PlatForms</string>
+</resources>

@@ -1,0 +1,57 @@
+com/evaluation/testproject/databinding/ConfirmationDialogBinding.java
+ com.evaluation.testproject.databinding.ConfirmationDialogBinding
+com/evaluation/testproject/databinding/ItemSpinnerLayoutBinding.java
+ com.evaluation.testproject.databinding.ItemSpinnerLayoutBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/evaluation/testproject/databinding/ItemPlatformsAdapterBindingImpl.java
+ com.evaluation.testproject.databinding.ItemPlatformsAdapterBindingImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/evaluation/testproject/DataBinderMapperImpl.java
+ com.evaluation.testproject.DataBinderMapperImpl
+ com.evaluation.testproject.DataBinderMapperImpl$InnerBrLookup
+ com.evaluation.testproject.DataBinderMapperImpl$InnerLayoutIdLookup
+com/evaluation/testproject/databinding/ItemAddressBindingImpl.java
+ com.evaluation.testproject.databinding.ItemAddressBindingImpl
+com/evaluation/testproject/databinding/ActivityDisplayBinding.java
+ com.evaluation.testproject.databinding.ActivityDisplayBinding
+com/evaluation/testproject/databinding/ActivityMainBinding.java
+ com.evaluation.testproject.databinding.ActivityMainBinding
+com/evaluation/testproject/databinding/ItemPlatformsAdapterBinding.java
+ com.evaluation.testproject.databinding.ItemPlatformsAdapterBinding
+com/evaluation/testproject/databinding/ItemSubCategoriesBindingImpl.java
+ com.evaluation.testproject.databinding.ItemSubCategoriesBindingImpl
+com/evaluation/testproject/databinding/FragmentCategoryDetailBinding.java
+ com.evaluation.testproject.databinding.FragmentCategoryDetailBinding
+com/evaluation/testproject/databinding/ActivityDisplayBindingImpl.java
+ com.evaluation.testproject.databinding.ActivityDisplayBindingImpl
+com/evaluation/testproject/BR.java
+ com.evaluation.testproject.BR
+com/evaluation/testproject/databinding/FragmentCategoryDetailBindingImpl.java
+ com.evaluation.testproject.databinding.FragmentCategoryDetailBindingImpl
+com/evaluation/testproject/databinding/ItemAddressBinding.java
+ com.evaluation.testproject.databinding.ItemAddressBinding
+com/evaluation/testproject/BuildConfig.java
+ com.evaluation.testproject.BuildConfig
+com/evaluation/testproject/DataBindingTriggerClass.java
+ com.evaluation.testproject.DataBindingTriggerClass
+com/evaluation/testproject/databinding/ActivityMainBindingImpl.java
+ com.evaluation.testproject.databinding.ActivityMainBindingImpl
+com/evaluation/testproject/generated/callback/OnClickListener.java
+ com.evaluation.testproject.generated.callback.OnClickListener
+ com.evaluation.testproject.generated.callback.OnClickListener$Listener
+com/evaluation/testproject/databinding/ItemRatingsAdapterBindingImpl.java
+ com.evaluation.testproject.databinding.ItemRatingsAdapterBindingImpl
+com/evaluation/testproject/databinding/ConfirmationDialogBindingImpl.java
+ com.evaluation.testproject.databinding.ConfirmationDialogBindingImpl
+com/evaluation/testproject/databinding/ItemRatingsAdapterBinding.java
+ com.evaluation.testproject.databinding.ItemRatingsAdapterBinding
+com/evaluation/testproject/databinding/FragmentHomeBindingImpl.java
+ com.evaluation.testproject.databinding.FragmentHomeBindingImpl
+com/evaluation/testproject/databinding/FragmentHomeBinding.java
+ com.evaluation.testproject.databinding.FragmentHomeBinding
+com/evaluation/testproject/databinding/ItemSubCategoriesBinding.java
+ com.evaluation.testproject.databinding.ItemSubCategoriesBinding
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent

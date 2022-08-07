@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+                                                        
+
+    
+
+                 
+                           
+                                       
+
+                 
+                            
+                                                                  
+
+                 
+                               
+                                                                                      
+
+           
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:tag="layout/item_address_0"                                     
+          xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="10dp"
+            app:cardUseCompatPadding="true"
+            android:elevation="@dimen/_2sdp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            >
+
+        <ImageView
+            android:id="@+id/ivImage"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_170sdp"
+            android:src="@mipmap/ic_launcher"
+            android:scaleType="centerCrop"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            />
+
+        </androidx.cardview.widget.CardView>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/_16ssp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginStart="@dimen/_5sdp"
+            android:layout_marginEnd="@dimen/_5sdp"
+            android:tag="binding_1"            
+            android:ellipsize="end"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/cardContainer"
+            />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+         
